@@ -21,7 +21,7 @@
   <a href="https://github.com/mazevedoc"><img align="center" alt="JAVASCRIPT-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a> 
   <a href="https://github.com/mazevedoc"><img align="center" alt="PYTON-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a>    
   <a href="https://github.com/mazevedoc"><img align="center" alt="NODEJS-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></a>   
-  <a href="https://github.com/mazevedoc"><img align="center" alt="MYSQL-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></a>
+  <a href="https://github.com/mazevedoc"><img align="center" alt="POSTGRESQL-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></a>
   <a href="https://github.com/mazevedoc"><img align="center" alt="MONGODB-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></a>
   <a href="https://github.com/mazevedoc"><img align="center" alt="ORACLE-logo" heingth="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/></a>
 </div>
